@@ -3,7 +3,7 @@ Created by [Hang Zhou](http://home.ustc.edu.cn/~zh2991/), [Kejiang Chen](http://
 
 Introduction
 --
-This work is published on Visualization and Computer Graphics (TVCG). 
+This work is published on Visualization and Computer Graphics (TVCG), 2019. 
 
 We propose a neighborhood-level representation-guided tensor voting model for 3D mesh steganalysis. Because existing steganalytic methods do not analyze correlations among neighborhood faces, they are not very effective at discriminating stego meshes from cover meshes. In this paper, we propose to utilize a tensor voting model to reveal the artifacts caused by embedding data. In the proposed steganalytic scheme, the normal voting tensor (NVT) operation is performed on original mesh faces and smoothed mesh faces separately. Then, the absolute values of the differences between the eigenvalues of the two tensors (from the original face and the smoothed face) are regarded as features that capture intricate relationships among the vertices. Subsequently, the extracted features are processed with a nonlinear mapping to boost the feature effectiveness. The experimental results show that the proposed feature sets prevail over state-of-the-art feature sets including LFS64 and ELFS124 under various steganographic schemes.
 
