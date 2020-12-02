@@ -11,7 +11,7 @@ Citation
 --
 If you find our work useful in your research, please consider citing:
 
-    @article{???,
+    @article{zhou2019feature,
      title={Feature-Preserving Tensor Voting Model for Mesh Steganalysis},
      author={Zhou, Hang and Chen, Kejiang and Zhang, Weiming and Qin, Chuan and Yu, Nenghai},
      journal={IEEE Transactions on Visualization and Computer Graphics},
