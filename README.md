@@ -1,5 +1,5 @@
 # Feature-Preserving Tensor Voting Model for Mesh Steganalysis
-Created by [Hang Zhou](http://home.ustc.edu.cn/~zh2991/), [Kejiang Chen](http://home.ustc.edu.cn/~chenkj/), [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html), Chuan Qin, [Nenghai Yu](http://staff.ustc.edu.cn/~ynh/).
+Created by [Hang Zhou](http://home.ustc.edu.cn/~zh2991/), [Kejiang Chen](http://home.ustc.edu.cn/~chenkj/), [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html), [Chuan Qin](https://scholar.google.com/citations?user=872LJo0AAAAJ&hl=en&oi=ao), [Nenghai Yu](http://staff.ustc.edu.cn/~ynh/).
 
 Introduction
 --
