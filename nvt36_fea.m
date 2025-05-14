@@ -1,5 +1,5 @@
 function F = nvt36_fea(ori_file)
-%YANG13_FEA Summary of this function goes here
+%NVT36_FEA Summary of this function goes here
 %   Detailed explanation goes here
 [vertex_o, face_o] = read_off(ori_file);
 vertex_o = vertex_o'; face_o = face_o';
